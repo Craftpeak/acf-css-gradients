@@ -1,7 +1,7 @@
-<link href="/wp-content/plugins/acf-css-gradients/vendor/css-gradient-generator-master/bootstrap/css/bootstrap.min.css" rel="stylesheet" type="text/css" media="all">
-<link href="/wp-content/plugins/acf-css-gradients/vendor/css-gradient-generator-master/src/css-gradient-generator.css" rel="stylesheet" type="text/css" media="all">
-<link href="/wp-content/plugins/acf-css-gradients/vendor/css-gradient-generator-master/resources/icomoon/sprites.css" rel="stylesheet" type="text/css">
-<link href="/wp-content/plugins/acf-css-gradients/vendor/css-gradient-generator-master/resources/bootstrap-colorpickersliders/bootstrap.colorpickersliders.css" rel="stylesheet" type="text/css" media="all">
+<link href="<?php echo WP_PLUGIN_URL ?>/acf-css-gradients/vendor/css-gradient-generator-master/bootstrap/css/bootstrap.min.css" rel="stylesheet" type="text/css" media="all">
+<link href="<?php echo WP_PLUGIN_URL ?>/acf-css-gradients/vendor/css-gradient-generator-master/src/css-gradient-generator.css" rel="stylesheet" type="text/css" media="all">
+<link href="<?php echo WP_PLUGIN_URL ?>/acf-css-gradients/vendor/css-gradient-generator-master/resources/icomoon/sprites.css" rel="stylesheet" type="text/css">
+<link href="<?php echo WP_PLUGIN_URL ?>/acf-css-gradients/vendor/css-gradient-generator-master/resources/bootstrap-colorpickersliders/bootstrap.colorpickersliders.css" rel="stylesheet" type="text/css" media="all">
 <div class="container">
 
 
@@ -426,17 +426,3 @@
         </div>
     </div>
 </div>
-<!---->
-<!--<!--<script src="/wp-content/plugins/acf-css-gradients/vendor/css-gradient-generator-master/bootstrap/js/bootstrap.min.js"></script>-->
-<!---->
-<!--<script src="/wp-content/plugins/acf-css-gradients/vendor/css-gradient-generator-master/resources/bootstrap-touchspin/bootstrap.touchspin.js"></script>-->
-<!--<script src="/wp-content/plugins/acf-css-gradients/vendor/css-gradient-generator-master/resources/tinycolor/tinycolor.js"></script>-->
-<!--<script src="/wp-content/plugins/acf-css-gradients/vendor/css-gradient-generator-master/resources/bootstrap-colorpickersliders/bootstrap.colorpickersliders.js"></script>-->
-<!--<script src="/wp-content/plugins/acf-css-gradients/vendor/css-gradient-generator-master/src/css-gradient-generator.js"></script>-->
-<!---->
-<!--<script src="/wp-content/plugins/acf-css-gradients/vendor/css-gradient-generator-master/resources/jquery.base64/jquery.base64.min.js"></script>-->
-<!--<script src="/wp-content/plugins/acf-css-gradients/vendor/css-gradient-generator-master/resources/qrcode/qrcode.min.js"></script>-->
-<!--<script src="/wp-content/plugins/acf-css-gradients/vendor/css-gradient-generator-master/resources/zeroclipboard/ZeroClipboard.js"></script>-->
-<!---->
-<!--<script src="/wp-content/plugins/acf-css-gradients/vendor/css-gradient-generator-master/resources/syntaxhighlighter/3.0.83/shCore.js"></script>-->
-<!--<script src="/wp-content/plugins/acf-css-gradients/vendor/css-gradient-generator-master/resources/syntaxhighlighter/3.0.83/shBrushCss.js"></script>-->
